@@ -1,0 +1,7 @@
+flask
+tkinter
+lxml
+requests
+Pillow
+beautifulsoup4
+selenium
