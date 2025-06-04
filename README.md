@@ -34,7 +34,8 @@ Make sure you have installed:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Drako-Scrapper.git
+git clone https://github.com/DrakoTech1/Drako-Scrapper.git
 cd Drako-Scrapper
 
+If you love this Tool kindly Give us a review, contribute, like and a star. Alos feel free to let us know what other features do you think we can Add to this tool to serve more. 
 
