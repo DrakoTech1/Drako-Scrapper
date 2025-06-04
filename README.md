@@ -1,32 +1,40 @@
+# Drako Scrapper 🐉
 
+The most **advanced, futuristic web scraping app** — designed for ethical hackers, pentesters, and data pros.  
+Scrape anything, bypass CAPTCHA, use proxies, and toggle between desktop GUI and web dashboard seamlessly.
 
+---
 
-# Drako Scrapper
+## Features
 
-![CI Status](https://github.com/YOUR_USERNAME/Drako-Scrapper/actions/workflows/main.yml/badge.svg)
+- 🕸️ Full XPath and HTML tag scraping support  
+- 🛡️ Proxy and login session support (cookies, headers)  
+- 🤖 AI/OCR CAPTCHA bypass powered by Tesseract OCR  
+- 💻 Switchable GUI: Tkinter desktop or Flask web dashboard  
+- 🔄 Scheduled automatic scraping tasks  
+- 📚 Comprehensive docs with futuristic UI and animations  
+- ⚙️ CI/CD with GitHub Actions and automated deployments  
 
-![Demo Preview](https://via.placeholder.com/600x300?text=Drako+Scrapper+Demo+Placeholder)
+---
 
-Drako Scrapper is a world-class futuristic scraper with GUI, XPath, proxy, login, CAPTCHA support, and more.
+## Getting Started
 
-# 🧠 Ultimate Advanced Scraper
+### Prerequisites
 
-This is the most advanced, dual-mode (offline + web) intelligent scraper app ever built. Supports:
+Make sure you have installed:
 
-- ✅ XPath & keyword targeting
-- ✅ Offline GUI (Tkinter)
-- ✅ Online Flask dashboard
-- ✅ OCR/CAPTCHA-ready (pytesseract)
-- ✅ Output to CSV or JSON
-- ✅ One-command install via `run.sh`
+- Python 3.8+  
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) (for CAPTCHA bypass)  
+- Git (to clone the repo)  
 
-## 🔧 Usage
+---
+
+### Installation & Setup
+
+1. Clone the repo:
 
 ```bash
-chmod +x run.sh
-./run.sh
-
-
-*Replace the above demo link when ready.*
+git clone https://github.com/YOUR_USERNAME/Drako-Scrapper.git
+cd Drako-Scrapper
 
 
