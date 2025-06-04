@@ -1,17 +1,9 @@
-site_name: Ultimate Advanced Scraper
-nav:
-  - Home: index.md
-  - Offline GUI: offline_gui.md
-  - Online Dashboard: online_dashboard.md
-  - CAPTCHA & OCR: captcha.md
-  - Dev Guide: dev_guide.md
+site_name: Drako Scrapper Documentation
 theme:
   name: material
-  features:
-    - navigation.tabs
-    - navigation.top
-    - content.code.copy
-markdown_extensions:
-  - codehilite
-  - toc:
-      permalink: true
+
+nav:
+  - Home: index.md
+  - Usage: usage.md
+  - API: api.md
+  - Contributing: contributing.md
