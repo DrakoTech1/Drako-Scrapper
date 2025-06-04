@@ -2,6 +2,8 @@
 
 The most **advanced, futuristic web scraping app** — designed for ethical hackers, pentesters, and data pros.  
 Scrape anything, bypass CAPTCHA, use proxies, and toggle between desktop GUI and web dashboard seamlessly.
+If you love this Tool kindly Give us a review, contribute, like and a star. 
+Also feel free to let us know what other features you would like to see added to this tool to serve more. 
 
 ---
 
@@ -37,5 +39,5 @@ Make sure you have installed:
 git clone https://github.com/DrakoTech1/Drako-Scrapper.git
 cd Drako-Scrapper
 
-If you love this Tool kindly Give us a review, contribute, like and a star. Alos feel free to let us know what other features do you think we can Add to this tool to serve more. 
+
 
